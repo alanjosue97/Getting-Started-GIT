@@ -1,0 +1,29 @@
+Git Sumary 
+
+git ignore
+
+the .gitignore file is a text file that tells git which files or folders to ignore in a project.
+
+commits
+A commits is an indivudual change to a file. When you make a commit to save you work. 
+Commits usually contain a commit message which is a brief descripcion of what changes were made.
+
+git commands
+
+git init: is used to determine where you going to work 
+git add: to add changes made to file at master branch, you can use git add or git commit -m
+git remove: use to delete a file
+git commit: to save change in local
+git status: show list og change added and file that are about to be prepared to commit
+
+git branches
+
+Branches allow you to develop feacture, fix bug, o safely experimente with new ideas in a contained area of your repository.
+you can created and detele some branches, the "git branch" command works for you can get a simple listing of yout current branches.
+
+git Merge
+
+The git merge command lets you take the independent lines of development created by git branch and integrate then into a single branch.
+This command will combine multple sequences of commits into one unified history. In the most frequent use case, git merge, is used to combine two branches.
+
+git flow
